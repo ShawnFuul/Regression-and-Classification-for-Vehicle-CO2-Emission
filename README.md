@@ -9,7 +9,7 @@ This dataset has some of the features of vehicles including 'Make', 'Vehicle Cla
 #### Project Goal
 The goal of the project is to figure out the relationship between vehicle features and CO2 emissions from the vehicles. The classification and regression methods were used to imply the relationships.
 
-![](/Project Fig-1.png)
+![GitHub Logo](/Project Fig-1.png)
 
 #### Conclusion 
 3 different learning methods (Linear Regression, Polynomial Regression and K-Nearest Neighbor Classification) were tested and the accuracy were analyzed.
@@ -17,8 +17,8 @@ The goal of the project is to figure out the relationship between vehicle featur
 By identities of different features, the models were built:
 
 * Linear Regression:
-![](/Project Fig-3.png)
+![GitHub Logo](/Project Fig-3.png)
 * Polynomial Regression:
-![](/Project Fig-4.png)
+![GitHub Logo](/Project Fig-4.png)
 * K-Nearest Neighbor Classification:
-![](/Project Fig-2.png)
+![GitHub Logo](/Project Fig-2.png)
