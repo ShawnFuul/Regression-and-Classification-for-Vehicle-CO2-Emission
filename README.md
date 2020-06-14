@@ -17,10 +17,13 @@ The goal of the project is to figure out the relationship between vehicle featur
 By identities of different features, the models were built:
 
 * Linear Regression:
+
 ![](/Project%20Fig-3.png)
 
 * Polynomial Regression:
+
 ![](/Project%20Fig-4.png)
 
 * K-Nearest Neighbor Classification:
+
 ![](/Project%20Fig-2.png)
