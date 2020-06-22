@@ -11,8 +11,6 @@ The goal of the project is to figure out the relationship between vehicle featur
 
 ![](/Project%20Fig-1.png)
 
-![](/Project%20Fig-2.png)
-
 ![](/Project%20Fig-3.png)
 
 #### Conclusion 
