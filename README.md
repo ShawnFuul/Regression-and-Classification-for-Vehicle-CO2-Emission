@@ -13,9 +13,9 @@ The goal of the project is to figure out the relationship between vehicle featur
 
 ![](/Project%20Fig-3.png)
 
+![](/Project%20Fig-4.png)
+
 #### Conclusion 
 Many different learning methods (Linear Regression, Polynomial Regression ,K-Nearest Neighbor Classification, K-means Clustering, etc.) were tested and the accuracy were analyzed.
-
-![](/Project%20Fig-4.png)
 
 ![](/Project%20Fig-5.png)
